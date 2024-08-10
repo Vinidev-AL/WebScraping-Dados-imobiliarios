@@ -8,7 +8,7 @@ import os
 from datetime import datetime
 
 # Definindo as constantes
-DOMAIN = 'https://www.quintoandar.com.br'
+DOMAIN = 'https://endereço_do_site'
 URL = f'{DOMAIN}/alugar/imovel/aguas-claras-brasilia-df-brasil'
 OUTPUT_FILE = 'dados_imoveis.xlsx'
 
